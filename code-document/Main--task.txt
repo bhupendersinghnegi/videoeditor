@@ -73,12 +73,4 @@ command.inputOption('-f', 'mp3'); // Set input format to mp3
 command.inputOption('-map', '0:1'); // Map the second stream of the input
 
 
-
-20s --> 2.20m
-
-
-
-
-
-Rajesh sir ----> home page setter your website
-Pragya     ----> how to share image like mobile app
+ 
