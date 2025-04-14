@@ -1,0 +1,84 @@
+Set a html file for start making video    ------> DONE
+Check code how it is working              ------> DONE
+Make more animation style in video        ------> WORKING SECTION 
+    Fade in or fade out                                 ------> DONE
+    Position moving right to left or left to right etc  ------> DONE
+    Rotation of the element                             ------> DONE
+    Add images from file system                         ------> DONE 
+    Transitions on going ease-in or ease-in-out         ------> After UI
+    Z-index                                             ------> After UI(Rander after a thing to print up)                           
+    Box size or border radius change                    ------> DONE (Box size)
+    Add font and font animations                        ------> DONE (Font Added) 
+    Add same style on load image from the url           ------> DONE (Base64 image will work here) 
+
+    Size all side    ----> All posiable ways                      ----> DONE
+    Side animation   ----> All side(Top and bottom side)          ----> DONE
+    Zoom in and out  ----> All posiable ways                      ----> DONE
+    {
+        0 --> 1 BIG              ----> DONE
+        0 --> 1 SMALL            ----> DONE
+        1 --> 0 BIG              ----> DONE
+        1 --> 0 SMALL            ----> DONE
+
+        Shape   ---> DONE
+        Image   ---> DONE
+        font    ---> DONE
+    }
+    filp animation   ---> All side(Check in css first)            ---> DONE
+    rotate functions ----> Chcek again(Function name rotateBox)   ---> 
+
+
+    Adding custom audio to the frames                   ------> ADD ONE(Need to add more)
+    Rander many videos and after rander delete data     
+Add canva app with this app                             ------> DONE
+{
+    add element     ----> DONE
+    move element    ----> DONE
+    resize element  ----> DONE
+    other           ----> DONE
+}
+Open layers as pages are open{                  ------> HERE
+    Make layer other for other page             ------> DONE
+    Add new canvas on history                   ------> DONE
+    Use function to call history                ------> DONE
+    Update resize and move functions from India first life ----> DONE{
+        Setup for window resize, and move       ------> DONE 
+        Setup for mobile                        ------> NOT NOW(AFTER SOME TIME)
+    }
+    Check All  ---> DONE ONCE
+}
+Add preview{        -----> From Frontend-task file remove when done -----> WORKING 
+    Setup the json for when many pages are add(Load and Working)
+    Add templates by json new option(Add)
+}
+Change all functions to window history page{
+    
+}
+Add transitions to canva app as per the video I have made 
+Add video animation with canva app and download the output
+
+
+
+
+Code Repo
+command.inputOption('-ss', '00:00:10'); // Set start time to 10 seconds
+command.inputOption('-t', '30'); // Set duration to 30 seconds
+command.inputOption('-c:v', 'libx264'); // Set video codec to libx264
+command.inputOption('-c:a', 'aac'); // Set audio codec to AAC
+command.inputOption('-b:v', '1M'); // Set video bitrate to 1 Mbps
+command.inputOption('-b:a', '128k'); // Set audio bitrate to 128 kbps
+command.inputOption('-vn'); // Disable video
+command.inputOption('-an'); // Disable audio
+command.inputOption('-f', 'mp3'); // Set input format to mp3
+command.inputOption('-map', '0:1'); // Map the second stream of the input
+
+
+
+20s --> 2.20m
+
+
+
+
+
+Rajesh sir ----> home page setter your website
+Pragya     ----> how to share image like mobile app

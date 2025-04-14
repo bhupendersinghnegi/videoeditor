@@ -1,0 +1,26 @@
+{
+  "name": "ffmpeg-video",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "nodemon": "^3.0.2",
+    "onchange": "^7.1.0"
+  }
+}
