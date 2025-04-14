@@ -67,5 +67,3 @@ https://konvajs.org/index.html
 
 
 // updateBorderRadius(selectedElement) ------> Off this funcation
-
-Ask about delete page on vspagy
