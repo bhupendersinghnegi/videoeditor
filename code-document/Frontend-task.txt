@@ -1,0 +1,71 @@
+Add preview{
+    Setup the json for when many pages are add(Load and Working)
+    Add templates by json new option(Add)
+}
+On mouse event{
+    will not work in mobile check india fisrt life canva for this
+    resize canvas event will be on body
+    check move canva event
+}
+text scale{
+    only width will not height ----> rajesh sir
+}
+--------------------------------------LAST
+Rotate{
+    scale the element after rotate    -------> HOLD
+}
+zoom bar{
+    <!-- In More -->
+    Zoom by mouse pad
+}
+Layers updated option{   
+    <!-- In More -->
+    Make a group and group hide lock etc...
+    With key coye the layer with mouse drag
+    <!-- align element line like photoshop -->
+}
+Styles and rename funtions and classes names{
+    Create on figma design
+}
+RND{
+    how canva is making out selection but not element
+}
+laod design [half done]{
+    load design by json funtion are made more work needed
+}
+add comments to programs.
+Perview {
+    Perview canvas change
+}
+Add more pages [half done]{
+    preview after add new element
+}
+resize file{
+    check code and make more good code
+}
+load template
+create canvas{
+    give the canvas tha value to create new canvas
+}
+
+<!-- TESTING FUNCTIONS -->
+History
+
+
+
+
+chrome://extensions//eppiocemhmnlbhjplcgkofciiegomcon/popup/index.html
+buster extension github ===CHECK
+
+
+
+
+
+ffmpeg.js   ---->CHECK
+https://konvajs.org/index.html
+
+
+
+// updateBorderRadius(selectedElement) ------> Off this funcation
+
+Ask about delete page on vspagy

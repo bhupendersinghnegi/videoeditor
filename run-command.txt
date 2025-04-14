@@ -1,0 +1,5 @@
+// run the website 
+node --watch-path=./public --watch-path=./video-module --watch index.js
+
+// create video from the server
+node video-module/index.js
